@@ -116,7 +116,7 @@
          setTimeout(function(){
             $('header').addClass('header_animated');
         $('.banner_section').addClass('expand');
-    }, 0);
+    }, 3000);
 }
 
 jQuery(document).ready(function(){
